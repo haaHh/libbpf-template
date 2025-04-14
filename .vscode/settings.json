@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "*.json": "json",
+        "bootstrap.h": "c",
+        "libbpf.h": "c",
+        "bpf.h": "c",
+        "callflowtracer.skel.h": "c",
+        "callflowtracer.h": "c",
+        "limits": "c",
+        "fieldstat_easy.h": "c",
+        "errno.h": "c",
+        "epoll.h": "c",
+        "unistd.h": "c",
+        "cjson.h": "c",
+        "bpf_core_read.h": "c",
+        "bpf_tracing.h": "c",
+        "bpf_helpers.h": "c",
+        "format": "c",
+        "chrono": "c",
+        "typeinfo": "c",
+        "system_error": "cpp",
+        "ostream": "cpp",
+        "compiler.h": "c",
+        "limits.h": "c",
+        "usdt.bpf.h": "c",
+        "vmlinux.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/helanfeng/code/libbpf-template/test"
+}
